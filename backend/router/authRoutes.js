@@ -12,3 +12,4 @@ router.post("/login", login);
 router.get("/users", getUsers); // New route to get registered users
 
 module.exports = router;
+
